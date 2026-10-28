@@ -1,7 +1,7 @@
 {
   "sha256": {
     ".gitignore": "62fac813c46b45c0404b7649bc5baaa271e026ad636648bc8c4417bf661328f3",
-    "README.md": "360f7844314bc9bced89eb4967105a69b2574e7758f480686b57568ef941e61f",
+    "README.md": "ddb8a9e72e1c58baef4a2e8870dfe06158b6692b33279454c78dfc5d1de75530",
     "archive/chain/collect_seven.py": "408161651c4729b704fdc44676c11823156a31889ee8d23ab69c3fa0093e4dd9",
     "archive/chain/graph_seven.py": "987ba089bee5faa2af834a2567df9d210413690fb9b50524ad2c9841eab75841",
     "archive/chain/train_seven.py": "6fc455c331058b19add6fc97c8d4efa6676cd499a6a6f8a7b3866bcd8cbfb8b2",
@@ -127,6 +127,7 @@
     "records/fork/trace.json": "2f96963e5b49966ace11984823a50d888b633c3e8cf3bdb363bc6d08953eb00a",
     "records/media.json": "41980b1061925e48d19381990752ac41b89d97fbc4399b528feebae26704040c",
     "requirements.txt": "0314a9b5b676d620c1bfe03996e1f97d0b4bec15ce346d1c8e602fa850b9e959",
+    "setup_env.py": "aafa9997ded540cbf0e3f08abcc3926c5643e4d91c4f9cc167b5398900c07616",
     "src/chain/backend/acc_protocol.py": "8331c7dd4e5121274efb63cac5ce470eba070d4a9d05c08e31eb2be6a56cc907",
     "src/chain/backend/acq_closed.py": "2763325b68de29cac2bb3017fce52f30f230f2ad4f5e0ea946795cf0390b13d6",
     "src/chain/backend/acq_design.py": "c1c63846206f90f8b42973b6a6734ea5596f4f94fe220f96b9db493a24d715cb",
@@ -141,6 +142,7 @@
     "src/fork/revisable_graph.py": "cc91994e22bd6cbdd2ba0d2fb7420a6c37b4bec97e580fba370a0f5019934f80",
     "src/fork/robot_repaired.py": "6a899e13d63f6d72af3aa218c8bdf8bc9afbd819dc6776d6812489e7ba9c07b4",
     "src/fork/robot_revision.py": "a3936bbf3143ab6f38d3b7be408682840eb6adcae558e3e414a13b771fbb70b4",
+    "tools/update_manifest.py": "87245d9d8c1e68850538210726f1ed353fd018c87bb9fbc521b90a7961846acf",
     "validate_remote.py": "25d2ced1978db2334ca8d29ca5942f2cfcd1c06708ec638076f8085289327eac"
   },
   "description": "Exact public release files; research checkpoints and calibration coefficients excluded."

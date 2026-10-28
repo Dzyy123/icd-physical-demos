@@ -21,11 +21,19 @@ PyBullet 3.2.7. No GPU is needed for the public commands.
 ```sh
 git clone https://github.com/Dzyy123/icd-physical-demos.git
 cd icd-physical-demos
-python3 -m venv .venv
+python3 setup_env.py
 source .venv/bin/activate
-python -m pip install -r requirements.txt
 python demo.py verify
 ```
+
+`setup_env.py` creates a virtual environment without system/user-site packages,
+then installs the pinned requirements. If the distribution omits `ensurepip`
+(common on minimal Debian/Ubuntu servers), it bootstraps pip **inside that venv**
+using the official `https://bootstrap.pypa.io/get-pip.py` installer. No `sudo`,
+private package index, pretrained weights, or existing research environment is
+required. Installation needs HTTPS access to PyPA and your configured PyPI index.
+On systems with a complete Python installation, the standard `python3 -m venv
+.venv` followed by `.venv/bin/python -m pip install -r requirements.txt` also works.
 
 ## 1. Inspect every graph update (no model or simulator required)
 
