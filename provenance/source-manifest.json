@@ -1,0 +1,149 @@
+[
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/physical7.py",
+    "destination": "src/chain/physical7.py",
+    "original_sha256": "6227ea6ab997070d907fd8aa0d862a4b860f80095db2eb59db890b9ea619e86a",
+    "export_sha256": "6227ea6ab997070d907fd8aa0d862a4b860f80095db2eb59db890b9ea619e86a",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/robot_seven.py",
+    "destination": "src/chain/robot_seven.py",
+    "original_sha256": "97c7c86960b98f2933202fdf2655ed9a9fbab3bdc37fa4e62e4fb43ba7ccb6ba",
+    "export_sha256": "97c7c86960b98f2933202fdf2655ed9a9fbab3bdc37fa4e62e4fb43ba7ccb6ba",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/variation_guard.py",
+    "destination": "src/chain/variation_guard.py",
+    "original_sha256": "1b338086f3382ae0b2298bd579012f57ff99c725dc5419f269e90f3be49c0d5b",
+    "export_sha256": "1b338086f3382ae0b2298bd579012f57ff99c725dc5419f269e90f3be49c0d5b",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_20261024/full_v11/source/physical7.py",
+    "destination": "src/fork/physical7.py",
+    "original_sha256": "6227ea6ab997070d907fd8aa0d862a4b860f80095db2eb59db890b9ea619e86a",
+    "export_sha256": "6227ea6ab997070d907fd8aa0d862a4b860f80095db2eb59db890b9ea619e86a",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/source/robot_revision.py",
+    "destination": "src/fork/robot_revision.py",
+    "original_sha256": "a3936bbf3143ab6f38d3b7be408682840eb6adcae558e3e414a13b771fbb70b4",
+    "export_sha256": "a3936bbf3143ab6f38d3b7be408682840eb6adcae558e3e414a13b771fbb70b4",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/source/revisable_graph.py",
+    "destination": "src/fork/revisable_graph.py",
+    "original_sha256": "cc91994e22bd6cbdd2ba0d2fb7420a6c37b4bec97e580fba370a0f5019934f80",
+    "export_sha256": "cc91994e22bd6cbdd2ba0d2fb7420a6c37b4bec97e580fba370a0f5019934f80",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/continuation_02/source/robot_hold_repair.py",
+    "destination": "archive/robot_hold_repair.py",
+    "original_sha256": "dbb00e4ddf79374db5cb5f9c91278fa8f58bc500c04ff3fbd1227998f4d025a0",
+    "export_sha256": "4e1023c8f94786e02753dcb144aa2728e2bd6f6bfa8b34f8f7fa7dd1d969849e",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/graph_seven.py",
+    "destination": "archive/chain/graph_seven.py",
+    "original_sha256": "987ba089bee5faa2af834a2567df9d210413690fb9b50524ad2c9841eab75841",
+    "export_sha256": "987ba089bee5faa2af834a2567df9d210413690fb9b50524ad2c9841eab75841",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/train_seven.py",
+    "destination": "archive/chain/train_seven.py",
+    "original_sha256": "6fc455c331058b19add6fc97c8d4efa6676cd499a6a6f8a7b3866bcd8cbfb8b2",
+    "export_sha256": "6fc455c331058b19add6fc97c8d4efa6676cd499a6a6f8a7b3866bcd8cbfb8b2",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/collect_seven.py",
+    "destination": "archive/chain/collect_seven.py",
+    "original_sha256": "408161651c4729b704fdc44676c11823156a31889ee8d23ab69c3fa0093e4dd9",
+    "export_sha256": "408161651c4729b704fdc44676c11823156a31889ee8d23ab69c3fa0093e4dd9",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/source/run_revision.py",
+    "destination": "archive/fork/run_revision.py",
+    "original_sha256": "6d775998f1b5d8c18aeeca82c63a83ff188a1dcda415bb557591ecffc06325de",
+    "export_sha256": "5dc777181f19fa0e5eebef77af08012c8c839361100aef39d6917d6df82e2978",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/source/collect_revision.py",
+    "destination": "archive/fork/collect_revision.py",
+    "original_sha256": "021367a1ff423e15ffee4704bb9550672381e414970aaf7313ecfece81ee04ab",
+    "export_sha256": "c135fbd251d9c2631116e53a37438411c4c2dada899169fe23d2da446cef3bc5",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/source/recalibrate_p.py",
+    "destination": "archive/fork/recalibrate_p.py",
+    "original_sha256": "de2f6f6a921e98f2f8a4b3290adeecbcee02d575f129ea0abf755ce3f8b0a947",
+    "export_sha256": "66082c8ff516d35863fd24105e7641a623fef281bbc8016a8f777311330a66f8",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_fork_revision_20261025/v6/continuation_02/source/continue_revision.py",
+    "destination": "archive/fork/continue_revision.py",
+    "original_sha256": "27a4df9cf7f3460f800e66a9a566773e415ab2e56b81a4e764e357e35cc81dbb",
+    "export_sha256": "27a4df9cf7f3460f800e66a9a566773e415ab2e56b81a4e764e357e35cc81dbb",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/acq_closed.py",
+    "destination": "src/chain/backend/acq_closed.py",
+    "original_sha256": "98cdf9f96c7f70b7ed589c0c54f6e3958c43fb4e4419734151d336f1806137bb",
+    "export_sha256": "98cdf9f96c7f70b7ed589c0c54f6e3958c43fb4e4419734151d336f1806137bb",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/min_static_v2.py",
+    "destination": "src/chain/backend/min_static_v2.py",
+    "original_sha256": "bed6c70051116885fcd18a57fdb177ba2b9880e1dad4702726cc2de5b907002c",
+    "export_sha256": "bed6c70051116885fcd18a57fdb177ba2b9880e1dad4702726cc2de5b907002c",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/acq_design.py",
+    "destination": "src/chain/backend/acq_design.py",
+    "original_sha256": "c1c63846206f90f8b42973b6a6734ea5596f4f94fe220f96b9db493a24d715cb",
+    "export_sha256": "c1c63846206f90f8b42973b6a6734ea5596f4f94fe220f96b9db493a24d715cb",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/orientation_stats.py",
+    "destination": "src/chain/backend/orientation_stats.py",
+    "original_sha256": "5b36eabb55a5c298637d62db002a06163652197a1280a653d45694fa91409d55",
+    "export_sha256": "5b36eabb55a5c298637d62db002a06163652197a1280a653d45694fa91409d55",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/acc_protocol.py",
+    "destination": "src/chain/backend/acc_protocol.py",
+    "original_sha256": "8331c7dd4e5121274efb63cac5ce470eba070d4a9d05c08e31eb2be6a56cc907",
+    "export_sha256": "8331c7dd4e5121274efb63cac5ce470eba070d4a9d05c08e31eb2be6a56cc907",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/direct_edge_evidence.py",
+    "destination": "src/chain/backend/direct_edge_evidence.py",
+    "original_sha256": "9d06b3dd83ff80b5c3433de15d040e211c4e40003e7ef99e7f924cbe2ca38fb9",
+    "export_sha256": "9d06b3dd83ff80b5c3433de15d040e211c4e40003e7ef99e7f924cbe2ca38fb9",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  },
+  {
+    "original_run": "icd_physical7_20261021/full_demo_v18/source/original/representation_safety.py",
+    "destination": "src/chain/backend/representation_safety.py",
+    "original_sha256": "2dd0812a1380346618f4aad7b0566f93adaef7ef9628dbda143e3fda61213328",
+    "export_sha256": "2dd0812a1380346618f4aad7b0566f93adaef7ef9628dbda143e3fda61213328",
+    "adaptation": "Private filesystem prefix redaction only; portable adapters are separate."
+  }
+]

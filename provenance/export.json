@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-28",
+  "private_weights_included": false,
+  "backend_modules": [
+    "acc_protocol",
+    "acq_closed",
+    "acq_design",
+    "direct_edge_evidence",
+    "min_static_v2",
+    "orientation_stats",
+    "representation_safety"
+  ],
+  "historical_json_log_files": 2036,
+  "evaluation": "simulation_only; internal checks, not independent integrity certification"
+}

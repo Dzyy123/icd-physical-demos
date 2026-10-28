@@ -1,0 +1,12 @@
+{
+  "chain": {
+    "url": "https://dzyy123.github.io/intervene-calibrate-discover/assets/featured-domino.mp4",
+    "sha256": "f7f67bc1d1083c344104f09c511f6090485322bca6b7cbfd5edb6a68e9799d44",
+    "seconds": 65.66666666666667
+  },
+  "fork": {
+    "url": "https://dzyy123.github.io/intervene-calibrate-discover/assets/featured-fork.mp4",
+    "sha256": "12c6cfd965bc9b10f3aa94fccd0cd4fb64c591b73b01bdac9559fd852e1fea63",
+    "seconds": 64.66666666666667
+  }
+}

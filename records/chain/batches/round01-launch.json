@@ -1,0 +1,1036 @@
+{
+  "role": "intervention",
+  "jobs": [
+    {
+      "seed": 81710000,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710000,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710001,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710001,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710002,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710002,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710003,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710003,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710004,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710004,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710005,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710005,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710006,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710006,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710007,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710007,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710008,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710008,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710009,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710009,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710010,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710010,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710011,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710011,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710012,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710012,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710013,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710013,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710014,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710014,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710015,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710015,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710016,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710016,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710017,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710017,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710018,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710018,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710019,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710019,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710020,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710020,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710021,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710021,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710022,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710022,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710023,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710023,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710024,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710024,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710025,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710025,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710026,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710026,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710027,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710027,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710028,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710028,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710029,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710029,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710030,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710030,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710031,
+      "target": 1,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 81710031,
+      "target": 1,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    }
+  ],
+  "source_sha256": "408161651c4729b704fdc44676c11823156a31889ee8d23ab69c3fa0093e4dd9",
+  "controller_sha256": "97c7c86960b98f2933202fdf2655ed9a9fbab3bdc37fa4e62e4fb43ba7ccb6ba",
+  "pid": 3067863,
+  "workers": 8,
+  "graph_truth_supplied": false,
+  "target": 1,
+  "round": 1
+}

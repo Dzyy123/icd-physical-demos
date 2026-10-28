@@ -1,0 +1,64 @@
+{
+  "status": "EXACT_MATCH",
+  "exact_reference_match": true,
+  "predicted_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "reference_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "missing_directed_edges": [],
+  "extra_directed_edges": [],
+  "unresolved_links": [],
+  "reference_sha256": "cc9a1891b222a148711d97d54734ae3a5c4243a477480de44cd1535d75b3a9f6",
+  "graph_result_sha256": "d0cb55bd478bfd242e4c8c99ef8db2fa7b0c75acac8084780a8950688396da8b",
+  "evaluation_type": "simulation_only",
+  "scope": "Binary event variables in the declared initial-condition domain; not a full continuous-state dynamics graph. Independent initial tilts and test-switch inputs are exogenous context variables.",
+  "reference_use": "Post-discovery evaluation only; this script does not call or modify the learner"
+}

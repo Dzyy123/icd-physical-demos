@@ -1,0 +1,40 @@
+{
+  "checkpoint_sha256": "5d972e27c552e53ba4e6a8177cdfa34b86870a8e5182fa23be29364539b1f437",
+  "roles": [
+    "P",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "B",
+    "L"
+  ],
+  "policy": "coverage",
+  "cap_per_target": 1,
+  "images_per_round": 64,
+  "graph_thresholds": {
+    "alpha": 0.01,
+    "min_eff_skeleton": 0.03,
+    "min_eff": 0.03,
+    "do_thr": 0.12,
+    "do_margin": 0.0
+  },
+  "binary_threshold": 0.5,
+  "true_graph_input": false,
+  "graph_inputs": [
+    "RGB images",
+    "intervention targets and commands"
+  ],
+  "source_sha256": {
+    "runner": "987ba089bee5faa2af834a2567df9d210413690fb9b50524ad2c9841eab75841",
+    "backend": "98cdf9f96c7f70b7ed589c0c54f6e3958c43fb4e4419734151d336f1806137bb",
+    "calibration": "71e7aeeaf75aa55082fa744730ccf5ee2440de8af86619da311c820a915d3702",
+    "variation_guard": "1b338086f3382ae0b2298bd579012f57ff99c725dc5419f269e90f3be49c0d5b"
+  },
+  "data_sha256": {
+    "observations": "7701f16d981cfb065093a9572424e1ff5e6916f167dc2c269565390da583489d",
+    "calibration": "679c357f631b532692f18a05a73b09f470f74315a789d1b0b8477a80d0b98d94"
+  },
+  "pid": 3069386,
+  "orientation_guard": "direct_do_endpoint_variation_guard_v1"
+}

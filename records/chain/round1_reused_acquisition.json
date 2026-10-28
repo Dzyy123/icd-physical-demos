@@ -1,0 +1,4 @@
+{
+  "source": "private-runs/icd_physical7_20261021/full_demo_v17/graph/round1_pixels",
+  "reason": "Same initial PC graph selects the same target; retain the already acquired unfiltered batch. Only admissibility of constant-endpoint evidence changed."
+}

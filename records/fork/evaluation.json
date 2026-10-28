@@ -1,0 +1,548 @@
+{
+  "status": "PASS_INTERNAL_DATA_BINDINGS",
+  "checks": {
+    "all_physical_gates_pass": true,
+    "zero_post_release_pose_resets": true,
+    "no_unintended_robot_contact": true,
+    "readout_per_node_at_least_95pct": true,
+    "complete_fixed_budget": true
+  },
+  "graph_trajectory": [
+    {
+      "round": 0,
+      "shd": 5,
+      "missing": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "extra": [
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 1,
+      "shd": 4,
+      "missing": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "extra": [
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 2,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 3,
+      "shd": 2,
+      "missing": [],
+      "extra": [
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 4,
+      "shd": 3,
+      "missing": [],
+      "extra": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 5,
+      "shd": 2,
+      "missing": [],
+      "extra": [
+        [
+          0,
+          3
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 6,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 7,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 8,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 9,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 10,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 11,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 12,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 13,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          3,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 14,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          1,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 15,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          1,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 16,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          1,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 17,
+      "shd": 1,
+      "missing": [],
+      "extra": [
+        [
+          1,
+          2
+        ]
+      ],
+      "exact": false
+    },
+    {
+      "round": 18,
+      "shd": 0,
+      "missing": [],
+      "extra": [],
+      "exact": true
+    },
+    {
+      "round": 19,
+      "shd": 0,
+      "missing": [],
+      "extra": [],
+      "exact": true
+    },
+    {
+      "round": 20,
+      "shd": 0,
+      "missing": [],
+      "extra": [],
+      "exact": true
+    }
+  ],
+  "withdrawal_classification": [
+    {
+      "round": 1,
+      "withdrawn_false_hypotheses": [
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "withdrawn_true_hypotheses": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "round": 2,
+      "withdrawn_false_hypotheses": [
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 3,
+      "withdrawn_false_hypotheses": [
+        [
+          3,
+          2
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 4,
+      "withdrawn_false_hypotheses": [
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 5,
+      "withdrawn_false_hypotheses": [
+        [
+          1,
+          6
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 6,
+      "withdrawn_false_hypotheses": [
+        [
+          0,
+          3
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 7,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 8,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 9,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 10,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 11,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 12,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 13,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 14,
+      "withdrawn_false_hypotheses": [
+        [
+          3,
+          2
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 15,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 16,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 17,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 18,
+      "withdrawn_false_hypotheses": [
+        [
+          1,
+          2
+        ]
+      ],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 19,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    },
+    {
+      "round": 20,
+      "withdrawn_false_hypotheses": [],
+      "withdrawn_true_hypotheses": []
+    }
+  ],
+  "readout_binary_accuracy_per_node": [
+    1.0,
+    0.9891304347826086,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "max_recorded_penetration_mm": 0.6003795041271132,
+  "reference_sha256": "9810f3f9e5f1a6f299f2200d1fe9670f03e903e4d19b39bc4f90e4dcf508ae51",
+  "trace_sha256": "cf3163c0400f34f975512d72ace4b546ba5e67c2dd83a814d217a98fe4591629",
+  "evaluation_type": "simulation_only",
+  "reference_loaded_only_after_fixed_budget": true,
+  "independent_integrity_review": false,
+  "scope": "One exploratory closed-loop run; all rounds retained. Candidate weights are not calibrated confidence. Graph correctness is reported, not imposed as an acceptance target.",
+  "same_data_old_calibration_control": {
+    "scope": "same acquired images, commands, masks and graph score; old P mapping only; NOT a separate active-policy run",
+    "map_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "shd": 3,
+    "missing": [],
+    "extra": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "exact": false
+  }
+}

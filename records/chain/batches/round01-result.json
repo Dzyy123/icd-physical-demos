@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "rows": 64,
+  "failures": {},
+  "seconds": 154.45824313163757,
+  "pixels_sha256": "b1496b84c689b102299f2586cbce5436c07f1ae141d8bcec8924ee0eddc68806",
+  "role": "intervention"
+}

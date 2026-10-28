@@ -1,0 +1,142 @@
+{
+  "role": "intervention",
+  "round": 3,
+  "target": 0,
+  "jobs": [
+    {
+      "seed": 86630000,
+      "target": 0,
+      "value": 0,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": true,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630000,
+      "target": 0,
+      "value": 1,
+      "root_on": true,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": true,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630001,
+      "target": 0,
+      "value": 0,
+      "root_on": false,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630001,
+      "target": 0,
+      "value": 1,
+      "root_on": false,
+      "context": {
+        "lean": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630002,
+      "target": 0,
+      "value": 0,
+      "root_on": false,
+      "context": {
+        "lean": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630002,
+      "target": 0,
+      "value": 1,
+      "root_on": false,
+      "context": {
+        "lean": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "bell_noise": false,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630003,
+      "target": 0,
+      "value": 0,
+      "root_on": false,
+      "context": {
+        "lean": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "bell_noise": true,
+        "lamp_noise": false
+      }
+    },
+    {
+      "seed": 86630003,
+      "target": 0,
+      "value": 1,
+      "root_on": false,
+      "context": {
+        "lean": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "bell_noise": true,
+        "lamp_noise": false
+      }
+    }
+  ],
+  "representative_pair_index": 1,
+  "selection_rule": "Prefer clean setup and active root, then clean setup, then lowest pair index; selected before outcomes. Never drop other pairs.",
+  "controller_sha256": "a3936bbf3143ab6f38d3b7be408682840eb6adcae558e3e414a13b771fbb70b4",
+  "collection_sha256": "021367a1ff423e15ffee4704bb9550672381e414970aaf7313ecfece81ee04ab",
+  "pid": 525678,
+  "workers": 8,
+  "known_graph_input": false
+}

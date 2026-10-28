@@ -1,0 +1,154 @@
+{
+  "status": "PASS",
+  "scope": "Release implementation checks, not independent integrity review or a new benchmark.",
+  "all_chain_updates_recomputed": true,
+  "all_fork_states_and_targets_recomputed": true,
+  "physics_replays": {
+    "chain": {
+      "scene": "chain",
+      "round": 1,
+      "row": 0,
+      "job": {
+        "seed": 81710000,
+        "target": 1,
+        "value": 0,
+        "root_on": true,
+        "context": {
+          "lean": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "bell_noise": false,
+          "lamp_noise": false
+        }
+      },
+      "endpoint_sha256": "ef0058ca0955bfd72d889584d0569c62f7d71fb0b1a062dce7035eb1cbb33cfb",
+      "recorded_endpoint_sha256": "ef0058ca0955bfd72d889584d0569c62f7d71fb0b1a062dce7035eb1cbb33cfb",
+      "byte_identical": true,
+      "target_realized": true,
+      "settled": true,
+      "min_contact_distance_m": -6.886085606985791e-05,
+      "post_release_pose_resets": 0,
+      "note": "Physics replay, not inference. Exact pixels can depend on platform/library versions. Oracle measurements are audit-only."
+    },
+    "fork": {
+      "scene": "fork",
+      "round": 18,
+      "row": 0,
+      "job": {
+        "seed": 86780000,
+        "target": 1,
+        "value": 0,
+        "root_on": true,
+        "context": {
+          "lean": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "bell_noise": false,
+          "lamp_noise": false
+        }
+      },
+      "endpoint_sha256": "536246fa8ae2462b8a7c967e917e2bb8f5907b53f4045ae811f217abf057af2e",
+      "recorded_endpoint_sha256": "536246fa8ae2462b8a7c967e917e2bb8f5907b53f4045ae811f217abf057af2e",
+      "byte_identical": true,
+      "target_realized": true,
+      "settled": true,
+      "min_contact_distance_m": -0.0005237235386716296,
+      "post_release_pose_resets": 0,
+      "note": "Physics replay, not inference. Exact pixels can depend on platform/library versions. Oracle measurements are audit-only."
+    }
+  },
+  "tests": [
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "refit",
+        "--scene",
+        "chain",
+        "--out",
+        "validation-output/chain-refit.json"
+      ],
+      "returncode": 0,
+      "seconds": 3.6696882247924805
+    },
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "refit",
+        "--scene",
+        "fork",
+        "--out",
+        "validation-output/fork-refit.json"
+      ],
+      "returncode": 0,
+      "seconds": 2.7186906337738037
+    },
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "report",
+        "--scene",
+        "chain",
+        "--out",
+        "validation-output/chain.html"
+      ],
+      "returncode": 0,
+      "seconds": 0.06444740295410156
+    },
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "report",
+        "--scene",
+        "fork",
+        "--out",
+        "validation-output/fork.html"
+      ],
+      "returncode": 0,
+      "seconds": 0.06446981430053711
+    },
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "simulate",
+        "--scene",
+        "chain",
+        "--round",
+        "1",
+        "--row",
+        "0",
+        "--out",
+        "validation-output/chain-operation"
+      ],
+      "returncode": 0,
+      "seconds": 100.76535892486572
+    },
+    {
+      "command": [
+        "python",
+        "demo.py",
+        "simulate",
+        "--scene",
+        "fork",
+        "--round",
+        "18",
+        "--row",
+        "0",
+        "--out",
+        "validation-output/fork-operation"
+      ],
+      "returncode": 0,
+      "seconds": 95.35631942749023
+    }
+  ]
+}

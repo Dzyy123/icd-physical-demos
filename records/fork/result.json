@@ -1,0 +1,61 @@
+{
+  "status": "FIXED_BUDGET_COMPLETE",
+  "rounds": 20,
+  "total_new_images": 184,
+  "initial_observations": 24,
+  "intervention_images": 160,
+  "calibration_reused_images": 280,
+  "final_map_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "rounds_with_withdrawals": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    14,
+    18
+  ],
+  "roles": [
+    "P",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "B",
+    "L"
+  ],
+  "seconds": 185.8204207420349,
+  "claim_scope": "Exploratory eight-round continuation; original algorithm frozen. No reference evaluation by learner.",
+  "additional_calibration_images": 64,
+  "P_recalibration_sha256": "250423ee8982f90b20864b2b8f35e3dbdba01b8f903804d0e96851e3d9c1bfb4",
+  "parent_run": "private-runs/icd_fork_revision_20261025/v6/run",
+  "continuation_new_images": 64,
+  "parent_unchanged": true,
+  "controller_repair": "F1 hold lateral offset +25 mm -> +20 mm; all gates unchanged"
+}
