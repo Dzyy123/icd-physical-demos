@@ -128,6 +128,9 @@ acoustics. See [protocol and development history](docs/PROTOCOL.md).
   `demo.py`; no unavailable checkpoint is downloaded automatically.
 - `docs/VALIDATION.json`: release smoke/recomputation checks, separate from
   experimental integrity certification.
+- [Fresh-clone README acceptance](docs/FRESH_CLONE_VALIDATION.md): isolated
+  installation, every public command, observed installation failures and fixes,
+  exact tested code revision, and the two replay pixel-hash checks.
 
 Raw image banks and checkpoints are not distributed. Consequently this release
 does not claim a weight-free rerun of the complete pixels → ACC → graph pipeline.

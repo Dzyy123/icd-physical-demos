@@ -1,7 +1,7 @@
 {
   "sha256": {
     ".gitignore": "62fac813c46b45c0404b7649bc5baaa271e026ad636648bc8c4417bf661328f3",
-    "README.md": "ddb8a9e72e1c58baef4a2e8870dfe06158b6692b33279454c78dfc5d1de75530",
+    "README.md": "1eaea8172da12a65fe1a5b3a21f30945a659e98a77b5110019492e50d85055ae",
     "archive/chain/collect_seven.py": "408161651c4729b704fdc44676c11823156a31889ee8d23ab69c3fa0093e4dd9",
     "archive/chain/graph_seven.py": "987ba089bee5faa2af834a2567df9d210413690fb9b50524ad2c9841eab75841",
     "archive/chain/train_seven.py": "6fc455c331058b19add6fc97c8d4efa6676cd499a6a6f8a7b3866bcd8cbfb8b2",
@@ -11,6 +11,8 @@
     "archive/fork/run_revision.py": "5dc777181f19fa0e5eebef77af08012c8c839361100aef39d6917d6df82e2978",
     "archive/robot_hold_repair.py": "4e1023c8f94786e02753dcb144aa2728e2bd6f6bfa8b34f8f7fa7dd1d969849e",
     "demo.py": "104eaae75e582788e277665ee3706f287a223746b9f54ead400644a09f85e956",
+    "docs/FRESH_CLONE_VALIDATION.json": "deb1f90bc0e6836f780629a49e93d20a444ca78801527c13d98044ce9dc823e1",
+    "docs/FRESH_CLONE_VALIDATION.md": "69b103be7375413c91c1de7e36d7e49cfaa203e84a7d72e76067559be6dde332",
     "docs/NOTICE.md": "47f1cf4a3d5c44960150ab0b96922b32941722250c88208b173d6efc68dee071",
     "docs/PORTABILITY.md": "4ba0d3d6274489671e170fd9ff3b15d5d2afb5b99cda248386cdfc646c7bb543",
     "docs/PROTOCOL.md": "c0e66b36d74658faf4662e473c03017775ddcd096ac88637b49c493bb1360e66",

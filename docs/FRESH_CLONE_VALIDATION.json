@@ -1,0 +1,222 @@
+{
+  "status": "PASS",
+  "started_utc": "2026-10-28T04:14:42.585500+00:00",
+  "repo": "https://github.com/Dzyy123/icd-physical-demos.git",
+  "tests": [
+    {
+      "name": "clone",
+      "returncode": 0,
+      "seconds": 7.325304269790649,
+      "command": "git -c credential.helper= clone https://github.com/Dzyy123/icd-physical-demos.git"
+    },
+    {
+      "name": "setup",
+      "returncode": 0,
+      "seconds": 42.02972865104675,
+      "command": "python3 setup_env.py"
+    },
+    {
+      "name": "environment",
+      "returncode": 0,
+      "seconds": 0.06453108787536621,
+      "command": "Check isolated prefix, disabled user site, and include-system-site-packages = false"
+    },
+    {
+      "name": "verify",
+      "returncode": 0,
+      "seconds": 0.11452865600585938,
+      "command": "python demo.py verify"
+    },
+    {
+      "name": "report-chain",
+      "returncode": 0,
+      "seconds": 0.06433653831481934,
+      "command": "python demo.py report --scene chain --out outputs/chain.html"
+    },
+    {
+      "name": "report-fork",
+      "returncode": 0,
+      "seconds": 0.06402921676635742,
+      "command": "python demo.py report --scene fork --out outputs/fork.html"
+    },
+    {
+      "name": "film-chain",
+      "returncode": 0,
+      "seconds": 2.8186304569244385,
+      "command": "python demo.py film --scene chain --out outputs/chain.mp4"
+    },
+    {
+      "name": "film-fork",
+      "returncode": 0,
+      "seconds": 2.0177361965179443,
+      "command": "python demo.py film --scene fork --out outputs/fork.mp4"
+    },
+    {
+      "name": "refit-chain",
+      "returncode": 0,
+      "seconds": 0.5152831077575684,
+      "command": "python demo.py refit --scene chain --out outputs/chain-refit.json"
+    },
+    {
+      "name": "refit-fork",
+      "returncode": 0,
+      "seconds": 2.6184356212615967,
+      "command": "python demo.py refit --scene fork --out outputs/fork-refit.json"
+    },
+    {
+      "name": "simulate-chain",
+      "returncode": 0,
+      "seconds": 98.07326626777649,
+      "command": "python demo.py simulate --scene chain --round 1 --row 0 --out outputs/chain-hold"
+    },
+    {
+      "name": "simulate-fork",
+      "returncode": 0,
+      "seconds": 95.91693425178528,
+      "command": "python demo.py simulate --scene fork --round 18 --row 0 --out outputs/fork-hold"
+    },
+    {
+      "name": "pip-check",
+      "returncode": 0,
+      "seconds": 0.21484732627868652,
+      "command": "python -m pip check"
+    }
+  ],
+  "fresh_clone": true,
+  "isolated_environment": true,
+  "private_assets_used": false,
+  "commit": "eb52515172f18301d6962e2271031ffa77968e0a",
+  "environment": {
+    "python": "3.10.12",
+    "system": "Linux",
+    "machine": "x86_64",
+    "packages": {
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "Pillow": "11.3.0",
+      "pybullet": "3.2.7",
+      "pip": "26.2.2"
+    },
+    "user_site_enabled": false,
+    "system_site_enabled": false
+  },
+  "physics": {
+    "chain": {
+      "scene": "chain",
+      "round": 1,
+      "row": 0,
+      "job": {
+        "seed": 81710000,
+        "target": 1,
+        "value": 0,
+        "root_on": true,
+        "context": {
+          "lean": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "bell_noise": false,
+          "lamp_noise": false
+        }
+      },
+      "endpoint_sha256": "ef0058ca0955bfd72d889584d0569c62f7d71fb0b1a062dce7035eb1cbb33cfb",
+      "recorded_endpoint_sha256": "ef0058ca0955bfd72d889584d0569c62f7d71fb0b1a062dce7035eb1cbb33cfb",
+      "byte_identical": true,
+      "target_realized": true,
+      "settled": true,
+      "min_contact_distance_m": -0.00006886085606985791,
+      "post_release_pose_resets": 0,
+      "note": "Physics replay, not inference. Exact pixels can depend on platform/library versions. Oracle measurements are audit-only."
+    },
+    "fork": {
+      "scene": "fork",
+      "round": 18,
+      "row": 0,
+      "job": {
+        "seed": 86780000,
+        "target": 1,
+        "value": 0,
+        "root_on": true,
+        "context": {
+          "lean": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "bell_noise": false,
+          "lamp_noise": false
+        }
+      },
+      "endpoint_sha256": "536246fa8ae2462b8a7c967e917e2bb8f5907b53f4045ae811f217abf057af2e",
+      "recorded_endpoint_sha256": "536246fa8ae2462b8a7c967e917e2bb8f5907b53f4045ae811f217abf057af2e",
+      "byte_identical": true,
+      "target_realized": true,
+      "settled": true,
+      "min_contact_distance_m": -0.0005237235386716296,
+      "post_release_pose_resets": 0,
+      "note": "Physics replay, not inference. Exact pixels can depend on platform/library versions. Oracle measurements are audit-only."
+    }
+  },
+  "finished_utc": "2026-10-28T04:18:54.443180+00:00",
+  "scope": "Public README acceptance: recorded playback, saved-readout graph recomputation, and CPU physics replay; not complete pixel-to-graph inference.",
+  "execution": {
+    "gpu_used": false,
+    "private_assets_used": false,
+    "git_credential_helper_disabled": true,
+    "git_global_config_disabled": true,
+    "pip_config_disabled": true,
+    "pip_index": "https://pypi.org/simple",
+    "pip_cache_disabled": true,
+    "pythonpath_cleared": true,
+    "blas_threads": 2
+  },
+  "bootstrap": {
+    "url": "https://bootstrap.pypa.io/get-pip.py",
+    "sha256": "f4448a01e3ab2914c65f4ca59d4cacba6b2dbde19a483fbac46587f8bbaff424"
+  },
+  "previous_attempts": [
+    {
+      "commit": "75f7415b8094b79fe1561d02f857e83b46a3a770",
+      "stage": "anonymous clone",
+      "returncode": 0,
+      "seconds": 6.9741857051849365
+    },
+    {
+      "commit": "75f7415b8094b79fe1561d02f857e83b46a3a770",
+      "stage": "python3 -m venv .venv",
+      "returncode": 1,
+      "seconds": 0.06412243843078613,
+      "error": "ensurepip is not available",
+      "resolution": "Use setup_env.py to bootstrap pip inside an isolated venv without sudo."
+    },
+    {
+      "commit": null,
+      "stage": "uncommitted bootstrap draft in partially created venv",
+      "returncode": null,
+      "returncode_note": "Exit code was not separately captured; retained traceback proves failure.",
+      "error": "shutil.SameFileError: system Python and existing venv interpreter symlink refer to the same file",
+      "resolution": "Use POSIX interpreter symlinks explicitly; do not copy over an existing symlink."
+    },
+    {
+      "commit": null,
+      "stage": "corrected bootstrap recovery before publication",
+      "returncode": 0,
+      "note": "Installed pinned dependencies and passed pip check in the partially created isolated venv."
+    }
+  ],
+  "additional_diagnostics": [
+    {
+      "command": "python -W error::RuntimeWarning demo.py refit --scene chain --out outputs/chain-warning-diagnostic.json",
+      "returncode": 1,
+      "expected": true,
+      "reason": "Warning-as-error diagnostic intentionally stops at NumPy corrcoef on a constant intervention endpoint, before the existing variation_guard can mark that endpoint's score inadmissible.",
+      "normal_readme_command_returncode": 0,
+      "algorithm_changed": false
+    }
+  ],
+  "manifest_files_verified": 144
+}
+
